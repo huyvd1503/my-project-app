@@ -1,0 +1,61 @@
+{
+  "common": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ",
+    "dashboard": "Bảng điều khiển",
+    "home": "Trang chủ",
+    "analytics": "Phân tích",
+    "reports": "Báo cáo",
+    "users": "Người dùng",
+    "system": "Hệ thống",
+    "general": "Cài đặt chung",
+    "error": "Lỗi",
+    "tryAgain": "Thử lại",
+    "vocabulary": "Từ vựng"
+  },
+  "auth": {
+    "loginTitle": "Đăng nhập",
+    "loginFailed": "Email hoặc mật khẩu không chính xác",
+    "enterEmail": "Nhập email",
+    "enterPassword": "Nhập mật khẩu"
+  },
+  "theme": {
+    "switchToLight": "Chuyển sang chế độ sáng",
+    "switchToDark": "Chuyển sang chế độ tối",
+    "switchToSystem": "Chuyển sang chế độ hệ thống"
+  },
+  "language": {
+    "changeLanguage": "Thay đổi ngôn ngữ",
+    "vietnamese": "Tiếng Việt",
+    "english": "Tiếng Anh"
+  },
+  "vocabulary": {
+    "title": "Học Từ Vựng",
+    "basicVocabulary": "Từ Vựng Cơ Bản",
+    "sentencePatterns": "Cấu Trúc Câu",
+    "sampleEssay": "Bài Viết Mẫu",
+    "speakingPractice": "Luyện Nói",
+    "vocabularyList": "Danh Sách Từ Vựng",
+    "wordOrPhrase": "Từ/Cụm từ",
+    "meaning": "Nghĩa",
+    "example": "Ví dụ",
+    "flashcardMode": "Thẻ Ghi Nhớ",
+    "backToList": "Quay lại Danh sách",
+    "flip": "Lật Thẻ",
+    "cardCount": "Thẻ {{current}} / {{total}}",
+    "memorableSentencePatterns": "Các Mẫu Câu Dễ Nhớ",
+    "copyToClipboard": "Sao chép vào bộ nhớ tạm",
+    "englishVersion": "Phiên Bản Tiếng Anh",
+    "vietnameseVersion": "Phiên Bản Tiếng Việt",
+    "hideTranslation": "Ẩn Bản Dịch",
+    "showTranslation": "Hiện Bản Dịch",
+    "question": "Câu hỏi",
+    "suggestedAnswers": "Gợi ý trả lời",
+    "speakingInstructions": "Luyện nói bằng cách trả lời các câu hỏi sau. Hãy sử dụng từ vựng và cấu trúc câu đã học.",
+    "selectTopic": "Chọn chủ đề"
+  }
+}

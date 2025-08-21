@@ -1,0 +1,61 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "settings": "Settings",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "analytics": "Analytics",
+    "reports": "Reports",
+    "users": "Users",
+    "system": "System",
+    "general": "General",
+    "error": "Error",
+    "tryAgain": "Try Again",
+    "vocabulary": "Từ vựng"
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "loginFailed": "Email or password is incorrect",
+    "enterEmail": "Enter email",
+    "enterPassword": "Enter password"
+  },
+  "theme": {
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode",
+    "switchToSystem": "Switch to system mode"
+  },
+  "language": {
+    "changeLanguage": "Change language",
+    "vietnamese": "Vietnamese",
+    "english": "English"
+  },
+  "vocabulary": {
+    "title": "Vocabulary Learning",
+    "basicVocabulary": "Basic Vocabulary",
+    "sentencePatterns": "Sentence Patterns",
+    "sampleEssay": "Sample Essay",
+    "speakingPractice": "Speaking Practice",
+    "vocabularyList": "Vocabulary List",
+    "wordOrPhrase": "Word/Phrase",
+    "meaning": "Meaning",
+    "example": "Example",
+    "flashcardMode": "Flashcard Mode",
+    "backToList": "Back to List",
+    "flip": "Flip Card",
+    "cardCount": "Card {{current}} of {{total}}",
+    "memorableSentencePatterns": "Memorable Sentence Patterns",
+    "copyToClipboard": "Copy to clipboard",
+    "englishVersion": "English Version",
+    "vietnameseVersion": "Vietnamese Version",
+    "hideTranslation": "Hide Translation",
+    "showTranslation": "Show Translation",
+    "question": "Question",
+    "suggestedAnswers": "Suggested answers",
+    "speakingInstructions": "Practice speaking by answering these questions. Use vocabulary and patterns from previous sections.",
+    "selectTopic": "Select Topic"
+  }
+}
